@@ -36,7 +36,7 @@ Birtamod.online is an emerging e-commerce platform aiming to digitize the tradit
 
 ## Contributions
 
-We welcome contributions from anyone interested in making Birtamod.online a premier online marketplace. Please feel free to open issues or submit pull requests on our [GitHub repository](https://github.com/xsazz/birtamod.online).
+We welcome contributions from anyone interested in making Birtamod.online a premier online marketplace. Please feel free to open issues or Discuss on our [GitHub Discussion Panel](https://github.com/x-xsazz/Birtamod.online/discussions/2).
 
 ## Contact
 
