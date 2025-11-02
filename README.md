@@ -1,6 +1,6 @@
-# Birtamod.online
+<img src= "https://i.imgur.com/C6RDffx.png" width= 400 height=150>
 
-Welcome to Birtamod.online, an innovative online multi-vendor marketplace designed to connect buyers and sellers across Birtamod. Our platform facilitates seamless buying, selling, and trading experiences within Birtamod and is intended to expand to wider geographical areas soon.
+# Y O U R . M A R K E T P L A C E
 
 ## About
 
