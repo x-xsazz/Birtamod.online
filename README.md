@@ -1,4 +1,6 @@
-<img scr="https://imgur.com/C6RDffx">
+<p align="center">
+  <img src="https://imgur.com/a/btm-online-banner-mkUHdd5.png" alt="Birtamod.online" width="200">
+</p>
 
 # BIRTAMOD.ONLINE LEGAL DOCUMENTS
 
@@ -22,7 +24,6 @@ https://x-xsazz.github.io/Birtamod.online/
 
 - LEGAL INQUIRIES: legal@birtamod.online
 - SUPPORT: support@birtamod.online
-- PRIVACY: privacy@birtamod.online
 
 ## COPYRIGHT
 
