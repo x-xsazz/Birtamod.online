@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://imgur.com/a/btm-online-banner-mkUHdd5.png" alt="Birtamod.online" width="200">
-</p>
+[![Birtamod Online](https://imgur.com/a/btm-online-banner-mkUHdd5)](https://www.birtamod.online)
+
 
 # BIRTAMOD.ONLINE LEGAL DOCUMENTS
 
