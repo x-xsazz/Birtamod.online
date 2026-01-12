@@ -1,0 +1,523 @@
+/* BRUTALIST THEME - BIRTAMOD.ONLINE LEGAL DOCUMENTS */
+
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* BASE STYLES */
+:root {
+    --black: #000000;
+    --white: #FFFFFF;
+    --gray: #CCCCCC;
+    --border: 3px solid var(--black);
+}
+
+body {
+    font-family: 'Courier New', 'Courier', monospace;
+    background: var(--white);
+    color: var(--black);
+    line-height: 1.6;
+    font-size: 16px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* HEADER */
+.header {
+    background: var(--black);
+    color: var(--white);
+    padding: 60px 0;
+    border-bottom: var(--border);
+}
+
+.site-title {
+    font-size: 48px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    font-size: 20px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+
+/* MAIN CONTENT */
+.main {
+    padding: 60px 0;
+}
+
+.intro {
+    border: var(--border);
+    padding: 30px;
+    margin-bottom: 60px;
+    background: var(--white);
+}
+
+.intro p {
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+/* SECTION TITLES */
+.section-title {
+    font-size: 32px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    border-bottom: var(--border);
+    padding-bottom: 15px;
+}
+
+/* DOCUMENTS SECTION */
+.documents {
+    margin-bottom: 60px;
+}
+
+.doc-item {
+    border: var(--border);
+    padding: 40px;
+    margin-bottom: 30px;
+    background: var(--white);
+    transition: all 0.2s ease;
+}
+
+.doc-item:hover {
+    background: var(--black);
+    color: var(--white);
+}
+
+.doc-item:hover .doc-link {
+    background: var(--white);
+    color: var(--black);
+}
+
+.doc-title {
+    font-size: 28px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.doc-description {
+    font-size: 16px;
+    line-height: 1.8;
+    margin-bottom: 25px;
+}
+
+.doc-link {
+    display: inline-block;
+    padding: 15px 30px;
+    background: var(--black);
+    color: var(--white);
+    text-decoration: none;
+    font-weight: bold;
+    letter-spacing: 2px;
+    border: var(--border);
+    transition: all 0.2s ease;
+}
+
+.doc-link:hover {
+    background: var(--white);
+    color: var(--black);
+}
+
+/* CONTACT SECTION */
+.contact {
+    margin-bottom: 60px;
+}
+
+.contact-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.contact-item {
+    border: var(--border);
+    padding: 25px;
+    background: var(--white);
+}
+
+.contact-item strong {
+    display: block;
+    font-size: 14px;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.contact-item p {
+    font-size: 16px;
+}
+
+/* META SECTION */
+.meta {
+    border: var(--border);
+    padding: 30px;
+    text-align: center;
+}
+
+.meta p {
+    margin: 15px 0;
+    font-size: 16px;
+}
+
+.back-link {
+    color: var(--black);
+    text-decoration: none;
+    font-weight: bold;
+    letter-spacing: 2px;
+    border-bottom: 3px solid var(--black);
+}
+
+.back-link:hover {
+    background: var(--black);
+    color: var(--white);
+    padding: 5px;
+}
+
+/* FOOTER */
+.footer {
+    background: var(--black);
+    color: var(--white);
+    padding: 40px 0;
+    border-top: var(--border);
+    text-align: center;
+}
+
+.footer p {
+    font-size: 14px;
+    margin: 10px 0;
+    letter-spacing: 1px;
+}
+
+/* DOCUMENT PAGES */
+.document-page {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.doc-header {
+    background: var(--black);
+    color: var(--white);
+    padding: 40px;
+    margin-bottom: 40px;
+    border: var(--border);
+}
+
+.doc-header h1 {
+    font-size: 42px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.back-button {
+    display: inline-block;
+    padding: 12px 25px;
+    background: var(--white);
+    color: var(--black);
+    text-decoration: none;
+    font-weight: bold;
+    letter-spacing: 2px;
+    border: var(--border);
+    margin-bottom: 30px;
+}
+
+.back-button:hover {
+    background: var(--black);
+    color: var(--white);
+}
+
+.last-updated {
+    background: var(--gray);
+    padding: 20px;
+    border: var(--border);
+    margin-bottom: 40px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.doc-content {
+    background: var(--white);
+}
+
+.doc-content h1 {
+    font-size: 36px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin: 40px 0 20px 0;
+    text-transform: uppercase;
+    border-bottom: var(--border);
+    padding-bottom: 15px;
+}
+
+.doc-content h2 {
+    font-size: 28px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin: 35px 0 15px 0;
+    text-transform: uppercase;
+    border-left: 6px solid var(--black);
+    padding-left: 15px;
+}
+
+.doc-content h3 {
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin: 25px 0 12px 0;
+    text-transform: uppercase;
+}
+
+.doc-content h4 {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px 0 10px 0;
+}
+
+.doc-content p {
+    margin-bottom: 20px;
+    line-height: 1.8;
+    text-align: justify;
+}
+
+.doc-content ul,
+.doc-content ol {
+    margin: 20px 0 20px 40px;
+}
+
+.doc-content li {
+    margin-bottom: 12px;
+    line-height: 1.7;
+}
+
+.doc-content strong {
+    font-weight: bold;
+}
+
+.doc-content em {
+    font-style: italic;
+}
+
+.doc-content a {
+    color: var(--black);
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.doc-content a:hover {
+    background: var(--black);
+    color: var(--white);
+    padding: 2px 5px;
+}
+
+.doc-content hr {
+    border: none;
+    border-top: var(--border);
+    margin: 40px 0;
+}
+
+.doc-content code {
+    background: var(--gray);
+    padding: 3px 8px;
+    font-family: 'Courier New', monospace;
+    border: 2px solid var(--black);
+}
+
+.doc-content pre {
+    background: var(--gray);
+    padding: 20px;
+    border: var(--border);
+    overflow-x: auto;
+    margin: 20px 0;
+}
+
+.doc-content blockquote {
+    border-left: 6px solid var(--black);
+    padding-left: 25px;
+    margin: 20px 0;
+    font-style: italic;
+}
+
+.doc-content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 25px 0;
+    border: var(--border);
+}
+
+.doc-content table th,
+.doc-content table td {
+    border: 2px solid var(--black);
+    padding: 15px;
+    text-align: left;
+}
+
+.doc-content table th {
+    background: var(--black);
+    color: var(--white);
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.doc-footer {
+    border: var(--border);
+    padding: 30px;
+    margin-top: 60px;
+    text-align: center;
+    background: var(--gray);
+}
+
+.doc-footer p {
+    margin: 10px 0;
+}
+
+.doc-footer a {
+    color: var(--black);
+    font-weight: bold;
+    text-decoration: none;
+    letter-spacing: 1px;
+    border-bottom: 3px solid var(--black);
+}
+
+.doc-footer a:hover {
+    background: var(--black);
+    color: var(--white);
+    padding: 5px;
+}
+
+/* PRINT STYLES */
+@media print {
+    body {
+        background: white;
+    }
+
+    .header,
+    .footer,
+    .back-button,
+    .doc-footer {
+        display: none;
+    }
+
+    .doc-content h1,
+    .doc-content h2,
+    .doc-content h3 {
+        page-break-after: avoid;
+    }
+
+    .doc-content p,
+    .doc-content ul,
+    .doc-content ol {
+        page-break-inside: avoid;
+    }
+
+    * {
+        border-color: black !important;
+    }
+}
+
+/* RESPONSIVE DESIGN */
+@media (max-width: 768px) {
+    .site-title {
+        font-size: 32px;
+    }
+
+    .subtitle {
+        font-size: 16px;
+    }
+
+    .section-title {
+        font-size: 24px;
+    }
+
+    .doc-title {
+        font-size: 22px;
+    }
+
+    .doc-item {
+        padding: 25px;
+    }
+
+    .doc-link {
+        padding: 12px 20px;
+        font-size: 14px;
+    }
+
+    .contact-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .doc-header h1 {
+        font-size: 28px;
+    }
+
+    .doc-content h1 {
+        font-size: 28px;
+    }
+
+    .doc-content h2 {
+        font-size: 22px;
+    }
+
+    .doc-content h3 {
+        font-size: 18px;
+    }
+
+    .doc-content ul,
+    .doc-content ol {
+        margin-left: 25px;
+    }
+}
+
+@media (max-width: 480px) {
+    .header {
+        padding: 40px 0;
+    }
+
+    .site-title {
+        font-size: 24px;
+        letter-spacing: 1px;
+    }
+
+    .subtitle {
+        font-size: 14px;
+        letter-spacing: 2px;
+    }
+
+    .main {
+        padding: 40px 0;
+    }
+
+    .intro,
+    .doc-item,
+    .meta {
+        padding: 20px;
+    }
+
+    .doc-title {
+        font-size: 18px;
+    }
+
+    .doc-link {
+        padding: 10px 15px;
+        font-size: 12px;
+    }
+
+    .contact-item {
+        padding: 20px;
+    }
+}
