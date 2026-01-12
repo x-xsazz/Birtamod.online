@@ -1,4 +1,4 @@
-[![Birtamod Online](https://imgur.com/a/btm-online-banner-mkUHdd5)](https://www.birtamod.online)
+[![Birtamod Online][(https://imgur.com/a/btm-online-banner-mkUHdd5)](https://www.birtamod.online)
 
 
 # BIRTAMOD.ONLINE LEGAL DOCUMENTS
