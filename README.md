@@ -1,44 +1,33 @@
-<img src= "https://i.imgur.com/C6RDffx.png" width= 400 height=150>
+# Birtamod.online Legal Documents
 
-# Y O U R . M A R K E T P L A C E
+This repository hosts the legal documentation for Birtamod.online, Nepal's multi-vendor marketplace platform.
 
-## About
+## 📄 Documents Available
 
-Birtamod.online is an emerging e-commerce platform aiming to digitize the traditional market structure in Birtamod. By creating a local online marketplace, we empower businesses and individuals to reach a broader local audience, enhancing convenience and boosting local commerce.
+- **Terms of Service** - Terms and conditions for platform usage
+- **Privacy Policy** - Data collection and privacy practices
 
-## Key Features
+## 🌐 Live Site
 
-- **Local Marketplace**: Birtamod.online currently serves the Birtamod area, allowing community members to list and browse items for sale or trade.
-- **User-Friendly Interface**: Simplified browsing and transaction processes to facilitate smooth user experiences for both buyers and sellers.
-- **Secure Transactions**: Ensuring all transactions and user data are protected with secure technology.
+Visit: https://x-xsazz.github.io/Birtamod.online/
 
-## Roadmap
+## 📝 Quick Links
 
-### Phase 1: Launch (Current Stage)
-- Develop a functional platform limited to Birtamod city.
-- Enable users to create accounts, list items, and conduct trades within Birtamod.
+- [Terms of Service](https://x-xsazz.github.io/Birtamod.online/terms-of-service.html)
+- [Privacy Policy](https://x-xsazz.github.io/Birtamod.online/privacy-policy.html)
 
-### Phase 2: Feature Enhancements
-- Integrate geo-location tagging to allow users to filter and find items available in their immediate vicinity.
-- Optimize the platform for mobile use with a responsive design.
+## 📞 Contact
 
-### Phase 3: Expansion
-- Broaden marketplace coverage beyond Birtamod to include neighboring areas.
-- Implement a more robust search and filtering mechanism to enhance user experience.
+- **Legal Inquiries:** legal@birtamod.online
+- **Support:** support@birtamod.online
+- **Privacy:** privacy@birtamod.online
 
-### Phase 4: Third-Party Integration
-- Collaborate with local delivery services like Pathao and InDrive to facilitate delivery options for transactions.
-- Introduce a rating and review system for products and vendors to build trust within the platform.
+## ⚖️ Copyright
 
-### Phase 5: Further Development
-- Develop a mobile app for Android and iOS for more accessible user interaction.
-- Introduce advanced features such as customer support chatbots and AI-driven product recommendations.
+© 2026 Birtamod.online. All rights reserved.
 
-## Contributions
+The name "Birtamod.online" and associated business model are protected by intellectual property rights.
 
-We welcome contributions from anyone interested in making Birtamod.online a premier online marketplace. Please feel free to open issues or Discuss on our [GitHub Discussion Panel](https://github.com/x-xsazz/Birtamod.online/discussions/2).
+## 📌 Note
 
-## Contact
-
-For any inquiries, suggestions, or feedback, please contact us at support@birtamod.online.
-
+This repository contains ONLY legal documentation. The main application code is hosted separately and remains private.
