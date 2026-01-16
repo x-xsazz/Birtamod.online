@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Birtamod.online — Platform Overview</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+
+<header class="header">
+  <div class="container">
+    <h1 class="site-title">Platform Overview</h1>
+    <p class="subtitle">Production Infrastructure Summary</p>
+  </div>
+</header>
+
+<main class="main container document-page">
+
+  <a href="index.html" class="back-button">Back to Index</a>
+
+  <section class="intro">
+    <p>
+      Birtamod.online is a production-grade, multi-vendor commerce platform
+      engineered for real-world scale, security, and operational resilience.
+      This platform is live, hardened, and actively evolving.
+    </p>
+  </section>
+
+  <section>
+    <h2 class="section-title">Operational Status</h2>
+    <div class="doc-content">
+      <ul>
+        <li><strong>Status:</strong> Live and operational</li>
+        <li><strong>Uptime:</strong> 99.9% (auto-scaling infrastructure)</li>
+        <li><strong>Deployment:</strong> Cloud-native, containerized</li>
+        <li><strong>Region:</strong> Asia-South with CDN edge delivery</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <h2 class="section-title">Core Architecture</h2>
+    <div class="doc-content">
+      <p>
+        The platform is built using Django 6 and Python 3.12, backed by
+        PostgreSQL for transactional integrity and Redis for caching
+        and asynchronous processing.
+      </p>
+      <p>
+        All services are deployed via serverless containers with
+        automatic scaling, fault isolation, and zero-downtime deployments.
+      </p>
+    </div>
+  </section>
+
+  <section>
+    <h2 class="section-title">Security Model</h2>
+    <div class="doc-content">
+      <ul>
+        <li>HTTPS enforced with HSTS preload</li>
+        <li>Cloudflare WAF and rate limiting</li>
+        <li>CSRF and XSS mitigation</li>
+        <li>Strict Content Security Policy</li>
+        <li>Structured audit logging for payments and orders</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <h2 class="section-title">Platform Capabilities</h2>
+    <div class="doc-content">
+      <ul>
+        <li>Multi-vendor marketplace</li>
+        <li>Service-based commerce (non-inventory)</li>
+        <li>User profiles and content feeds</li>
+        <li>Vendor dashboards and order management</li>
+        <li>Payment gateway integrations</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="meta">
+    <p>
+      This platform is designed as infrastructure, not a prototype.
+    </p>
+    <a href="evolution.html" class="back-link">
+      View Platform Evolution
+    </a>
+  </section>
+
+</main>
+
+<footer class="footer">
+  <p>Infrastructure-first commerce platform</p>
+</footer>
+
+</body>
+</html>
