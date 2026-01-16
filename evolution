@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Birtamod.online — Platform Evolution</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+
+<header class="header">
+  <div class="container">
+    <h1 class="site-title">Platform Evolution</h1>
+    <p class="subtitle">Structured Development Timeline</p>
+  </div>
+</header>
+
+<main class="main container document-page">
+
+  <a href="platform.html" class="back-button">Back to Platform Overview</a>
+
+  <section class="doc-content">
+
+    <h2>Phase 1 — Foundation</h2>
+    <p>
+      Initial deployment of the multi-vendor marketplace with core
+      infrastructure, authentication, image handling, and brutalist UI.
+      Production-first from inception.
+    </p>
+
+    <h2>Phase 2 — Security Hardening</h2>
+    <p>
+      Comprehensive security audits, emergency access removal, WAF
+      integration, CSP enforcement, and elimination of known vulnerabilities.
+    </p>
+
+    <h2>Phase 3 — UI / UX Modernization</h2>
+    <p>
+      Checkout state machine, navigation refactor, sidebar optimization,
+      product variant improvements, and mobile usability hardening.
+    </p>
+
+    <h2>Phase 4 — Feature Expansion</h2>
+    <p>
+      Unified image system, Redis caching, OAuth authentication,
+      vendor tools, SVG icon system, and content management expansion.
+    </p>
+
+    <h2>Phase 5 — MERO Feed System</h2>
+    <p>
+      Introduction of user-generated content with ownership controls,
+      public sharing, pinning, moderation safety, and permission enforcement.
+    </p>
+
+    <h2>Phase 6 — Stability & Optimization</h2>
+    <p>
+      Service-based commerce handling, structured logging, UI tightening,
+      AJAX navigation, and operational observability.
+    </p>
+
+    <hr>
+
+    <h2>Forward Roadmap</h2>
+    <p>
+      Planned enhancements include search optimization, analytics,
+      mobile applications, internationalization, and AI-assisted features,
+      without compromising system stability.
+    </p>
+
+  </section>
+
+  <section class="doc-footer">
+    <p>
+      Platform evolution is continuous and stability-driven.
+    </p>
+    <a data-live href="#">Enter Live Platform</a>
+  </section>
+
+</main>
+
+<footer class="footer">
+  <p>Versioned. Audited. Operated.</p>
+</footer>
+
+<script src="assets/js/main.js"></script>
+</body>
+</html>
