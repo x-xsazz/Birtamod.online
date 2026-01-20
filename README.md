@@ -1,13 +1,16 @@
 <img src="https://imgur.com/C6RDffx.png" alt="Birtamod" width="300" height="200">
 
-# BIRTAMOD.ONLINE LEGAL DOCUMENTS
+# Transforming the Marketplace
 
-This repository hosts the legal documentation for Birtamod.online, Nepal's multi-vendor marketplace platform.
+Own Your Marketplace. 
+visit 
+<button> <a href="www.birtamod.online"> The Marketplace </a>
+</button>
 
 ### DOCUMENTS AVAILABLE
 
-TERMS OF SERVICE - Terms and conditions for platform usage
-PRIVACY POLICY - Data collection and privacy practices
+TERMS OF SERVICE
+PRIVACY POLICY
 
 ### LIVE SITE
 
@@ -27,7 +30,7 @@ SUPPORT: support@birtamod.online
 
 COPYRIGHT 2025 BIRTAMOD.ONLINE. ALL RIGHTS RESERVED.
 
-The name "BIRTAMOD.ONLINE" and associated business model are protected by intellectual property rights.
+The name "BIRTAMOD.ONLINE".
 
 ### NOTE
 
