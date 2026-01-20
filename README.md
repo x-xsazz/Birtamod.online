@@ -34,4 +34,4 @@ The name "BIRTAMOD.ONLINE".
 
 ### NOTE
 
-This repository contains ONLY legal documentation. The main application code is hosted separately and remains private.
+This repository contains ONLY legal documentation. The main application code is somewhere out there lol
