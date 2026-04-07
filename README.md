@@ -163,7 +163,7 @@ Just your hustle.
 ```
 
 > You scrolled this far. That is basically commitment.
-> [Open the marketplace.](https://x-xsazz.github.io/Birtamod.online/) You know you want to.
+> [Open the marketplace.](https://Birtamod.online/) You know you want to.
 
 ---
 
