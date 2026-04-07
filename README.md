@@ -4,7 +4,7 @@
 
 Own Your Marketplace. 
 visit 
-<button> <a href="www.birtamod.online"> The Marketplace </a>
+<button> <a href="https://birtamod.online"> The Marketplace </a>
 </button>
 
 ### DOCUMENTS AVAILABLE
