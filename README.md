@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://imgur.com/C6RDffx.png" alt="Birtamod" width="300" height="200"/>
+<img src="https://imgur.com/C6RDffx.png" alt="Birtamod" width="300" height="125"/>
 
 </div>
 
