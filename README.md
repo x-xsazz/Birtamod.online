@@ -8,8 +8,8 @@
 
 **The Marketplace. Jhapa's Own. Built Different.**
 
-[![Visit Now](https://img.shields.io/badge/OPEN%20THE%20MARKETPLACE-%23FF6B00?style=for-the-badge&logoColor=white)](https:www.birtamod.online/)
-[![Vendors](https://img.shields.io/badge/MULTI--VENDOR-PLATFORM-111111?style=for-the-badge)](https:www.birtamod.online/)
+[![Visit Now](https://img.shields.io/badge/OPEN%20THE%20MARKETPLACE-%23FF6B00?style=for-the-badge&logoColor=white)](https://www.birtamod.online/)
+[![Vendors](https://img.shields.io/badge/MULTI--VENDOR-PLATFORM-111111?style=for-the-badge)](https://www.birtamod.online/)
 [![Region](https://img.shields.io/badge/T&C%2C%20Privacy_Policy%20Visit-FF6B00?style=for-the-badge)](https://x-xsazz.github.io/Birtamod.online/)
 
 </div>
